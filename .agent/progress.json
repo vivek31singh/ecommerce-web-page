@@ -2,7 +2,8 @@
   "repository": "vivek31singh/ecommerce-web-page",
   "completed_features": [
     "Create the `lib/data.ts` file containing an array of mock car objects adhering to the `Car` interface defined in `lib/types.ts`.",
-    "Create the `components/ui/Button.tsx` component. It should be a reusable functional component using TypeScript and Tailwind CSS. It needs to accept props for `children`, `onClick`, `variant` (e.g., default, outline, ghost), and `size` (e.g., default, sm, lg) to ensure flexibility across the application."
+    "Create the `components/ui/Button.tsx` component. It should be a reusable functional component using TypeScript and Tailwind CSS. It needs to accept props for `children`, `onClick`, `variant` (e.g., default, outline, ghost), and `size` (e.g., default, sm, lg) to ensure flexibility across the application.",
+    "Create the `components/ui/Card.tsx` file. It should export `Card`, `CardHeader`, `CardTitle`, `CardDescription`, `CardContent`, and `CardFooter` sub-components for flexible composition using Tailwind CSS for styling."
   ],
-  "last_commit": "feat: implement Button component with variant and size props"
+  "last_commit": "feat: add Card UI component with sub-components\n\nImplement complete Card component with CardHeader, CardTitle, CardDescription, CardContent, and CardFooter sub-components for flexible composition using Tailwind CSS styling."
 }
