@@ -1,7 +1,8 @@
 {
   "repository": "vivek31singh/ecommerce-web-page",
   "completed_features": [
-    "Create the `lib/data.ts` file containing an array of mock car objects adhering to the `Car` interface defined in `lib/types.ts`."
+    "Create the `lib/data.ts` file containing an array of mock car objects adhering to the `Car` interface defined in `lib/types.ts`.",
+    "Create the `components/ui/Button.tsx` component. It should be a reusable functional component using TypeScript and Tailwind CSS. It needs to accept props for `children`, `onClick`, `variant` (e.g., default, outline, ghost), and `size` (e.g., default, sm, lg) to ensure flexibility across the application."
   ],
-  "last_commit": "feat: create complete mock car data in lib/data.ts"
+  "last_commit": "feat: implement Button component with variant and size props"
 }
